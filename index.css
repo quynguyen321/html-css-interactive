@@ -1,0 +1,26 @@
+*{box-sizing: border-box;
+
+}
+
+html {
+    background-color: red;
+}
+button{
+    color: red;
+}
+h1 {
+text-align:center;
+background-color: rgb(red, green, blue);
+}
+p {
+    width: 50vw;
+    border: green ;
+}
+img {
+    width: 50vw;
+    margin-left: 100px;
+}
+ol >li {
+    font-size: 25px;
+    margin: 20px;
+}
